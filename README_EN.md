@@ -694,7 +694,7 @@ n Ctrl+^            # To switch the cache, enter the numeric cache number first,
 :split              # Copy the current window to a horizontal window, the content is synchronized, the cursor can be different
 :vsplit             # Copy the current window to another vertical window, the content is synchronized, the cursor can be different
 Ctrl+W              # Switch to the next window
-Ctrl+W s            # Horizo​​ntal split window
+Ctrl+W s            # Horizontal split window
 Ctrl+W v            # Split window longitudinally
 Ctrl+W w            # Cycle to the next window
 Ctrl+W W            # Cycle to the previous window
